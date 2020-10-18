@@ -1,0 +1,8 @@
+тест пригодности имени переменной:
+https://mothereff.in/js-variables
+
+типы данных:
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Data_structures
+
+операторы, выражения и ключевые слова:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators

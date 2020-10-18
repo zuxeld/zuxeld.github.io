@@ -1,0 +1,11 @@
+подбор цвета:
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
+
+подбор изображений:
+в гугл картинках фильтровать по свободной лицензии
+
+подбор шрифтов:
+https://fonts.google.com/?subset=cyrillic&sidebar.open=true
+
+
+имена всех файлов - только строчной латинницей с " - " в качестве разделителя
